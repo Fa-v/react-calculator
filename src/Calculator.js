@@ -145,7 +145,6 @@ render() {
     return (
       <div id="calculator">
         <div id="screen">
-          <div id="math">{ displayValue }</div>
           <div id="result">{ displayValue }</div>
         </div>
         <div id="keypad">
